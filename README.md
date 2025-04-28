@@ -87,3 +87,6 @@ CopierModifier
 ## 📄 License
 
 MIT License
+
+
+[Changelog](./CHANGELOG.md)
