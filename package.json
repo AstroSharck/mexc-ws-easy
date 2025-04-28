@@ -1,0 +1,24 @@
+{
+  "name": "mexc-ws-easy",
+  "version": "1.0.0",
+  "description": "A simple Node.js wrapper for listening to MEXC Futures WebSocket streams easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "ws": "^8.18.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TON-USERNAME/mexc-ws-easy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TON-USERNAME/mexc-ws-easy/issues"
+  },
+  "homepage": "https://github.com/TON-USERNAME/mexc-ws-easy#readme"
+}
