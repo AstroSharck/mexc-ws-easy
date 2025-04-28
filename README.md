@@ -1,7 +1,7 @@
 
 # mexc-ws-easy
 
-  
+[![npm version](https://img.shields.io/npm/v/mexc-ws-easy?color=crimson&style=for-the-badge)](https://www.npmjs.com/package/mexc-ws-easy)
 
 Simple and lightweight Node.js wrapper for listening to MEXC Futures WebSocket streams.
 
